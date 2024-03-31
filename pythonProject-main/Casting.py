@@ -1,0 +1,7 @@
+x = str(5.0)
+print(x)
+print(str(5.0) == 5)
+x = int(5.8)
+print(x)
+x = float(3.5)
+print(x)

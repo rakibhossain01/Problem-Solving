@@ -1,0 +1,10 @@
+lst = list()
+print(lst)
+lst = []
+print(lst)
+lst = ()
+print(lst)
+dic = dict()
+print(dic)
+st = set()
+print(st)
